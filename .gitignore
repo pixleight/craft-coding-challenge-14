@@ -1,0 +1,8 @@
+/.env
+/.idea
+/vendor
+.DS_Store
+/modules/Solution.php
+/web/cpresources
+/storage
+/templates/solutions
